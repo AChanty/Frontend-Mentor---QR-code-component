@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  - [Author](#author)
 
 ## Overview
 
@@ -24,3 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
+
+-  Linkedin - [Anthony Chanty](https://www.linkedin.com/in/anthony-c-a925a6172/)
+-  Frontend Mentor - [@achanty](https://www.frontendmentor.io/profile/AChanty)
